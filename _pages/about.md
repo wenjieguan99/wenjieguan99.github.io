@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Statistics, <a href='#'>Cornell University</a>, wg285@cornell.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>333 CIS Building</p>
+    <p>Ithaca, NY, 14853</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +25,20 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am a PhD student in Statistics at Cornell University advised by Prof. [Jelena Bradic](https://www.jelenabradic.net/). Previously I obtained my master's degree in Statistics at University of Washington, and bachelor's degree in Mathematics and Applied Math at Fudan University.
+
+My research lies at the intersection of
+
+- Machine learning theory
+
+- High-dimensional statistical inference
+
+- Foundation models and transformers
+
+- Probabilistic modeling
+
+I am particularly interested in understanding the mathematical principles underlying modern AI systems and developing statistical methods for high-dimensional data.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
