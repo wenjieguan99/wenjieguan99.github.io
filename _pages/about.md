@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>333 CIS Building</p>
     <p>Ithaca, NY, 14853</p>
-    [LinkedIn](https://www.linkedin.com/in/wenjie-guan-5318ba241/)
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
