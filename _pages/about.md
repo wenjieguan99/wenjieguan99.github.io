@@ -12,18 +12,14 @@ profile:
     <p>333 CIS Building</p>
     <p>Ithaca, NY, 14853</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # set true once your real papers in `_bibliography/papers.bib` use selected={true}
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD student in Statistics at Cornell University advised by Prof. [Jelena Bradic](https://www.jelenabradic.net/). Previously I obtained my master's degree in Statistics at University of Washington, and bachelor's degree in Mathematics and Applied Math at Fudan University.
