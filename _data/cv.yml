@@ -1,10 +1,8 @@
 cv:
   name: Wenjie Guan
-  label: PhD Student in Statistics
-  email: wg285@cornell.edu
+  headline: PhD Student in Statistics
   location: Ithaca, NY
-  image: ""
-  summary: PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic. Research interests include machine learning theory, high-dimensional statistical inference, foundation models and transformers, and probabilistic modeling.
+  email: wg285@cornell.edu
 
   social_networks:
     - network: GitHub
@@ -12,19 +10,15 @@ cv:
     - network: LinkedIn
       username: wenjie-guan-5318ba241
 
-  address:
-    street: 333 CIS Building
-    city: Ithaca
-    region: New York
-    postalCode: NY 14853
-    countryCode: US
-
   sections:
-    Education:
+    summary:
+      - PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic. Research interests include machine learning theory, high-dimensional statistical inference, foundation models and transformers, and probabilistic modeling.
+
+    education:
       - institution: Cornell University
         location: Ithaca, NY, USA
         area: Statistics
-        studyType: PhD
+        degree: PhD
         start_date: 2024
         end_date: present
         highlights:
@@ -33,9 +27,15 @@ cv:
       - institution: University of Washington
         location: Seattle, WA, USA
         area: Statistics
-        studyType: Master's
+        degree: Master's
 
       - institution: Fudan University
         location: Shanghai, China
         area: Mathematics and Applied Mathematics
-        studyType: Bachelor's
+        degree: Bachelor's
+
+    research_interests:
+      - bullet: Machine learning theory
+      - bullet: High-dimensional statistical inference
+      - bullet: Foundation models and transformers
+      - bullet: Probabilistic modeling
