@@ -1,1 +1,23 @@
-{}
+"bradic":
+  - firstname: ["Jelena", "J."]
+    url: https://www.jelenabradic.net/
+
+"ma":
+  - firstname: ["Jing", "J."]
+    url: https://drjingma.com/
+
+"zhang":
+  - firstname: ["Yikun", "Y."]
+    url: https://zhangyk8.github.io/
+
+"zhou":
+  - firstname: ["Doudou", "D."]
+    url: https://doudouzhou.github.io/
+
+"cai":
+  - firstname: ["Tianxi", "T."]
+    url: https://dbmi.hms.harvard.edu/people/tianxi-cai
+
+"giessing":
+  - firstname: ["Alexander", "A."]
+    url: https://agiessing.github.io/

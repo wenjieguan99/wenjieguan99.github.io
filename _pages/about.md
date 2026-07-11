@@ -6,13 +6,13 @@ subtitle: PhD student in Statistics, <a href='#'>Cornell University</a>, wg285@c
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wenjie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>333 CIS Building</p>
     <p>Ithaca, NY, 14853</p>
 
-selected_papers: false # set true once your real papers in `_bibliography/papers.bib` use selected={true}
+selected_papers: true # shows papers marked selected={true} in `_bibliography/papers.bib`
 social: true # includes social icons at the bottom of the page
 
 announcements:

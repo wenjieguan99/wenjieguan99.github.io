@@ -1,1 +1,10 @@
-{}
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#b31b1b"
+
+"JCGS":
+  url: https://www.tandfonline.com/journals/ucgs20
+  color: "#00369f"
+
+"Preprint":
+  color: "#666666"
