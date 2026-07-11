@@ -30,7 +30,7 @@ My research lies at the intersection of
 
 - High-dimensional statistical inference
 
-- Foundation models and transformers
+- Transformers and Language Models
 
 - Probabilistic modeling
 
