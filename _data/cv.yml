@@ -11,10 +11,11 @@ cv:
       username: wenjie-guan-5318ba241
 
   sections:
-    summary:
-      - PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic. Research interests include machine learning theory, high-dimensional statistical inference, foundation models and transformers, and probabilistic modeling.
+    # Website templates require exact title "Education"; RenderCV accepts any title.
+    Summary:
+      - bullet: PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic. Research interests include machine learning theory, high-dimensional statistical inference, foundation models and transformers, and probabilistic modeling.
 
-    education:
+    Education:
       - institution: Cornell University
         location: Ithaca, NY, USA
         area: Statistics
@@ -34,7 +35,7 @@ cv:
         area: Mathematics and Applied Mathematics
         degree: Bachelor's
 
-    research_interests:
+    Research Interests:
       - bullet: Machine learning theory
       - bullet: High-dimensional statistical inference
       - bullet: Foundation models and transformers
