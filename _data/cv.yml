@@ -12,6 +12,9 @@ cv:
 
   sections:
     # Website templates require exact title "Education"; RenderCV accepts any title.
+    Summary:
+      - bullet: PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic.
+
     Education:
       - institution: Cornell University
         location: Ithaca, NY, USA
