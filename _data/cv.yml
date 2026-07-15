@@ -12,9 +12,7 @@ cv:
 
   sections:
     # Website templates require exact title "Education"; RenderCV accepts any title.
-    Summary:
-      - bullet: PhD student in Statistics at Cornell University advised by Prof. Jelena Bradic. Research interests include machine learning theory, high-dimensional statistical inference, foundation models and transformers, and probabilistic modeling.
-
+    
     Education:
       - institution: Cornell University
         location: Ithaca, NY, USA
@@ -29,11 +27,20 @@ cv:
         location: Seattle, WA, USA
         area: Statistics
         degree: Master's
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - Advised by Prof. Jing Ma and Alexander Giessing
 
       - institution: Fudan University
         location: Shanghai, China
         area: Mathematics and Applied Mathematics
         degree: Bachelor's
+        start_date: 2018
+        end_date: 2022
+        highlights:
+          - National First Prize in Chinese College Mathematics Contest (2021, Final)
+          - Finalist in S.T. Yau College Student Mathematics Contest (2021, field of probability and statistics)
 
     Research Interests:
       - bullet: Machine learning theory
