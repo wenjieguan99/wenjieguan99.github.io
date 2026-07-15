@@ -12,7 +12,6 @@ cv:
 
   sections:
     # Website templates require exact title "Education"; RenderCV accepts any title.
-    
     Education:
       - institution: Cornell University
         location: Ithaca, NY, USA
