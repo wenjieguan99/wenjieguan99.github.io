@@ -22,24 +22,15 @@ latest_posts:
   enabled: false
 ---
 
-<style>
-  @media (min-width: 528px) {
-    .profile {
-      width: 33%;
-    }
-  }
-</style>
 
-I am a PhD student in Statistics at Cornell University advised by Prof. [Jelena Bradic](https://www.jelenabradic.net/). Previously I obtained my master's degree in Statistics at University of Washington, and bachelor's degree in Mathematics and Applied Math at Fudan University.
+
+Welcome to my homepage! I am a third-year PhD student in Statistics at Cornell University advised by Prof. [Jelena Bradic](https://www.jelenabradic.net/). Previously I obtained my master's degree in Statistics at University of Washington, and bachelor's degree in Mathematics and Applied Math at Fudan University.
 
 My research lies at the intersection of
 
 - Machine learning theory
-
 - High-dimensional statistical inference
-
 - Transformers and Language Models
-
 - Probabilistic modeling
 
 I am particularly interested in understanding the mathematical principles underlying modern AI systems and developing statistical methods for high-dimensional data.
