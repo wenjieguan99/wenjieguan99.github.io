@@ -22,8 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-
-
 Welcome to my homepage! I am a third-year PhD student in Statistics at Cornell University advised by Prof. [Jelena Bradic](https://www.jelenabradic.net/). Previously I obtained my master's degree in Statistics at University of Washington, and bachelor's degree in Mathematics and Applied Math at Fudan University.
 
 My research lies at the intersection of
