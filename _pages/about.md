@@ -27,8 +27,8 @@ Welcome to my homepage! I am a third-year PhD student in Statistics at Cornell U
 My research lies at the intersection of
 
 - Machine learning theory
+- Causal inference and robustness
 - High-dimensional statistical inference
 - Transformers and Language Models
-- Probabilistic modeling
 
 I am particularly interested in understanding the mathematical principles underlying modern AI systems and developing statistical methods for high-dimensional data.
