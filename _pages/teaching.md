@@ -12,3 +12,5 @@ nav_order: 3
   - Fall 2024, Spring 2025, Fall 2025
 - **STSCI/ILRST 2110**: Statistical Methods for the Social Sciences II
   - Spring 2026
+- **MATH 1920**: Multivariable Calculus for Engineers
+  - Fall 2026
