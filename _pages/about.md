@@ -28,7 +28,7 @@ My research lies at the intersection of
 
 - Machine learning theory
 - Causal inference and robustness
-- High-dimensional statistical inference
+- High-dimensional statistics
 - Transformers and Language Models
 
-I am particularly interested in understanding the mathematical principles underlying modern AI systems and developing statistical methods for high-dimensional data.
+I am particularly interested in understanding the mathematical principles or statistical guarantees underlying modern AI systems and algorithms. I also have experience in developing statistical methods for high-dimensional data.
