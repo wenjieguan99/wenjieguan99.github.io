@@ -23,7 +23,7 @@ cv:
         start_date: 2024
         end_date: present
         highlights:
-          - Advised by Prof. Jelena Bradic
+          - Advised by Prof. Jelena Bradic and Yang Ning
 
       - institution: University of Washington
         location: Seattle, WA, USA
@@ -46,6 +46,6 @@ cv:
 
     Research Interests:
       - bullet: Machine learning theory
-      - bullet: High-dimensional statistical inference
+      - bullet: Causal inference and robustness
+      - bullet: High-dimensional statistics
       - bullet: Transformers and language models
-      - bullet: Probabilistic modeling
